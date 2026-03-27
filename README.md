@@ -15,18 +15,21 @@ The consolidated dataset is a Time-Series collection of ER visits.
 * **Measures:** Calculated KPIs for Average Wait Time (Time-based) and Satisfaction (Ordinal/Integer based).
 
 **Entity Relationship Diagram (ERD):**
-![Data Model](images/Data Model.png)
+![Data Model](images/datamodel.png)
 
 # Executive Summary
-**Top 10 LGUs house nearly 60% of the population, while provincial growth slows to 1.04%.**
+Between April 2023 and October 2024, the ER processed **9,216 patients**. 
 
-The dashboard reveals a highly concentrated population distribution. Out of 40 LGUs analyzed, the top 10 (led by **Sariaya** and **Candelaria**) account for **60%** of the province's total inhabitants. Additionally, the province is experiencing a "Demographic Dividend," with a strong **62.05%** of the population falling within the working age (15-64 years old), suggesting high economic potential if employment opportunities are met.
+Long-term data shows a perfectly even **50/50** split between Admissions and Non-admissions. However, the satisfaction score has dipped below 5.00 **(4.99)**, indicating a systemic issue with patient experience. While 61.68% of patients are seen within the target time, the sheer volume on Sundays remains the primary operational bottleneck.
 
-**High-Level Metrics:**
-* **Total Population (2020)**: 1.95 Million
-* **Population Density**: 223 people per KM²
-* **Total Barangays**: 1,209
+**High-Level Metrics (Consolidated)**
+* **Total Patients**: 9,216
+* **Avg. Wait Time**: 35.3 Minutes
+* **Pat. Sat. Score**: 4.99 (Lower than the April monthly average)
+* **No. of Patients Referred**: 3,816
+* **Within Target Rate**: 61.68%
 
+**Consolidated View**
 ![Dashboard Overview](images/Dashboard.png)
 
 # Insights Deep Dive
