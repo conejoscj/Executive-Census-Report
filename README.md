@@ -9,6 +9,7 @@ The hospital administration requires a high-level strategic overview of Emergenc
 # Data Structure Overview
 The consolidated dataset is a Time-Series collection of ER visits.
 
+* **Source:** Kaggle Public Dataset
 * **Scale:** Over 9,200 unique patient records.
 * **Dimensions:** Time (Calendar/Date table), Geography (Referral sources), and Demographics (Age, Gender, Race).
 * **Measures:** Calculated KPIs for Average Wait Time (Time-based) and Satisfaction (Ordinal/Integer based).
