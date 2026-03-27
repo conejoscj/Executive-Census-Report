@@ -15,7 +15,7 @@ The consolidated dataset is a Time-Series collection of ER visits.
 * **Measures:** Calculated KPIs for Average Wait Time (Time-based) and Satisfaction (Ordinal/Integer based).
 
 **Entity Relationship Diagram (ERD):**
-![Data Model](Data_Model.png)
+![Data Model](images/Data_Model.png)
 
 # Executive Summary
 **Top 10 LGUs house nearly 60% of the population, while provincial growth slows to 1.04%.**
