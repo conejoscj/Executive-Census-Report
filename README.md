@@ -48,6 +48,7 @@ Long-term data shows a perfectly even **50/50** split between Admissions and Non
 
 ### Referral Source Impact
 * While "None" (Walk-ins) is the largest group (**5.4K**), General Practice remains the most critical professional partner (**1.8K**).
+  
 ![Dashboard Overview](images/referral.png)
 
 ### Monthly Story (April 2023 Deep Dive)
