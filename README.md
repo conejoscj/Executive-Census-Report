@@ -30,14 +30,28 @@ Long-term data shows a perfectly even **50/50** split between Admissions and Non
 * **Within Target Rate**: 61.68%
 
 **Consolidated View**
-![Dashboard Overview](images/)
+![Dashboard Overview](images/consolidatedview.png)
 
 **Monthly View**
-![Dashboard Overview](images/)
+![Dashboard Overview](images/monthlyview1.png)
 
 # Insights Deep Dive
-* Sunday is consistently the busiest day of the week (**1,589 total patients**). The most dangerous "overload" periods occur between **00:00 and 04:00 on Mondays and Sundays**, where volume is consistently at its highest.
-* Unlike the April-only view, the consolidated data shows that the 30-39 and 20-29 age groups are almost identical in volume (~1,200 each). This suggests the ER is a primary care source for young adults in this region.
+### Volume Analysis
+* Sunday is consistently the busiest day of the week (**1,589 total patients**).
+* The most dangerous "overload" periods occur between **00:00 and 04:00 on Mondays and Sundays**, where volume is consistently at its highest.
+![Dashboard Overview](images/UrbanConcentration.png)
+
+### Demographic Equilibrium
+  * Unlike the April-only view, the consolidated data shows that the **20-29** and **30-39** age groups are almost identical in volume (~1,200 each). This suggests the ER is a primary care source for young adults in this category.
+![Dashboard Overview](images/UrbanConcentration.png)
+
+### Referral Source Impact
+* While "None" (Walk-ins) is the largest group (**5.4K**), General Practice remains the most critical professional partner (**1.8K**).
+![Dashboard Overview](images/UrbanConcentration.png)
+
+### Monthly Story (April 2023 Deep Dive)
+* When we filter down to April 2023, we see a "snapshot" of these problems. In April, the satisfaction was slightly higher (**5.30**) compared to the long-term average (**4.99**).
+* This suggests that as the year progressed, patient satisfaction actually **decreased**, highlighting an urgent need for service intervention.
 
 ![Dashboard Overview](images/UrbanConcentration.png)
 
