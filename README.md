@@ -37,7 +37,7 @@ Long-term data shows a perfectly even **50/50** split between Admissions and Non
 
 # Insights Deep Dive
 * Sunday is consistently the busiest day of the week (**1,589 total patients**). The most dangerous "overload" periods occur between **00:00 and 04:00 on Mondays and Sundays**, where volume is consistently at its highest.
-* Infrastructure projects and public services should be prioritized in these top 10 high-density LGUs to prevent congestion, while development incentives are needed in rural areas to balance migration.
+* Unlike the April-only view, the consolidated data shows that the 30-39 and 20-29 age groups are almost identical in volume (~1,200 each). This suggests the ER is a primary care source for young adults in this region.
 
 ![Dashboard Overview](images/UrbanConcentration.png)
 
