@@ -30,10 +30,10 @@ Long-term data shows a perfectly even **50/50** split between Admissions and Non
 * **Within Target Rate**: 61.68%
 
 **Consolidated View**
-![Dashboard Overview](images/consolidatedview.png)
+![Dashboard Overview](images/)
 
 **Monthly View**
-![Dashboard Overview](images/monthlyview.png)
+![Dashboard Overview](images/)
 
 # Insights Deep Dive
 * Sunday is consistently the busiest day of the week (**1,589 total patients**). The most dangerous "overload" periods occur between **00:00 and 04:00 on Mondays and Sundays**, where volume is consistently at its highest.
