@@ -39,40 +39,23 @@ Long-term data shows a perfectly even **50/50** split between Admissions and Non
 ### Volume Analysis
 * Sunday is consistently the busiest day of the week (**1,589 total patients**).
 * The most dangerous "overload" periods occur between **00:00 and 04:00 on Mondays and Sundays**, where volume is consistently at its highest.
-![Dashboard Overview](images/UrbanConcentration.png)
+
+![Dashboard Overview](images/volumeanalysis.png)
 
 ### Demographic Equilibrium
   * Unlike the April-only view, the consolidated data shows that the **20-29** and **30-39** age groups are almost identical in volume (~1,200 each). This suggests the ER is a primary care source for young adults in this category.
-![Dashboard Overview](images/UrbanConcentration.png)
+![Dashboard Overview](images/demographic.png)
 
 ### Referral Source Impact
 * While "None" (Walk-ins) is the largest group (**5.4K**), General Practice remains the most critical professional partner (**1.8K**).
-![Dashboard Overview](images/UrbanConcentration.png)
+![Dashboard Overview](images/referral.png)
 
 ### Monthly Story (April 2023 Deep Dive)
 * When we filter down to April 2023, we see a "snapshot" of these problems. In April, the satisfaction was slightly higher (**5.30**) compared to the long-term average (**4.99**).
 * This suggests that as the year progressed, patient satisfaction actually **decreased**, highlighting an urgent need for service intervention.
 
-![Dashboard Overview](images/UrbanConcentration.png)
-
-### A Deceleration in Growth
-* The province's growth rate has steadily declined over the last decade.
-  * **2015 Growth**: 1.24%
-  * **2020 Growth**: 1.04% (Slowest recorded in the 5-year span analysis).
-* This slowing growth suggests a stabilizing population, which can relieve pressure on public resources like schools and hospitals in the long term
-
-![Dashboard Overview](images/Deceleration.png)
-
-### Strong Labor Force Potential
-* The dependency burden is relatively low.
-  * **Working Age (15-64)**: 62.05%
-  * **Young Dependents (<15)**: 33.14%
-  * **Old Dependents (>64)**: 4.80%
-* Quezon Province has a massive available workforce. The challenge is ensuring local industries (agriculture, tourism, BPO) can absorb this supply to prevent brain drain to Metro Manila.
-
-![Dashboard Overview](images/LaborForce.png)
 
 # Recommendations
-* **Job Creation in Key Hubs**: Focus economic zones in the top 10 populated LGUs (like Candelaria and Tayabas) to capitalize on the 62% working-age population.
-* **Rural Development Programs**: Launch initiatives in the 30% least populated municipalities to improve density balance and reduce strain on major towns.
-* **Senior Care Planning**: While the elderly population is currently low (4.8%), the slowing birth rate suggests this demographic will grow. Long-term planning for geriatric care should begin now.
+* **Resource Scaling**: Implement a permanent "Weekend Night Shift" increase. The consolidated data proves that Sunday/Monday early mornings are a permanent trend, not a fluke.
+* **Patient Experience Program**: Since the satisfaction score is trending downward (currently 4.99), the hospital should launch a "Fast-Track" program for low-acuity patients (the 50% not admitted) to get them out of the ER faster.
+* **Partner Expansion**: Since General Practice sends so many patients, create a "Priority Triage" for GP-referred patients to reward the use of professional referral channels and reduce walk-in congestion.
